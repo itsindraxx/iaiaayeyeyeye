@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="minecraftOnChat" id="qoO,WBnKZi6fg]0N,F0f" x="692" y="-60"><mutation xmlns="http://www.w3.org/1999/xhtml" numargs="0"></mutation><value name="command"><shadow type="text" id="%W;}I8lzo0^^a3|X[R4h"><field name="TEXT">iaiaayeyeyeye</field></shadow></value><statement name="HANDLER"><block type="minecraftApplyEffect" id="9Cs{J8TqBAUuQS:it|);"><value name="effect"><shadow type="minecraftEffectField" id="SdXg`{nz+P1!Uxqdy:4e"><field name="effect">Effect.NightVision</field></shadow></value><value name="target"><shadow type="minecraftTarget" id="jr_D^s$Q-2$}Tyv76,Lq"><field name="kind">TargetSelectorKind.NearestPlayer</field></shadow></value><value name="duration"><shadow type="math_number_minmax" id="^rBg%9Q%Xn`z%K6lwigt"><mutation min="0" max="600" precision="0"></mutation><field name="SLIDER">1e+221</field></shadow></value><value name="amplifier"><shadow type="math_number_minmax" id="Vb:@)w-$Uz(@i{TW(|jN"><mutation min="0" max="255" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="castles_build_simple_castle" id="tU,]s~I#$#1AJSg(c2rH"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="blockType"><shadow type="minecraftBlock" id="V!@M0JN5C$Hi`x;V$SZG"><field name="block">Block.Cobblestone</field></shadow></value><value name="position"><shadow type="minecraftCreatePositionCamera" id="Ff#G|mHLT?`SM;QTk27r"><value name="x"><shadow type="camerapositionpicker" id="u`T5E:{~pdZCm6w~Xu)c"><field name="pos">0</field></shadow></value><value name="y"><shadow type="camerapositionpicker" id="I/CB2a`nO1T.rY6omUGA"><field name="pos">0</field></shadow></value><value name="z"><shadow type="camerapositionpicker" id="t,}V*6SLO?5OI/3d?yW!"><field name="pos">0</field></shadow></value></shadow></value><next><block type="minecraftExecute" id="#NX07MB8|Z^=Rfn!$26n"><value name="command"><shadow type="text" id="p60hk+9C,zf{5^M{Q%qX"><field name="TEXT">say Vale bro</field></shadow></value></block></next></block></next></block></statement></block><block type="pxt-on-start" id="W!P}M8.?Jb.p-9z6-#+L" x="0" y="0"><statement name="HANDLER"><block type="minecraft_pixel_art_draw_image" id="j%|.Ab5Yq,6(5wsh#S-p"><field name="direction">CompassDirection.West</field><value name="image"><shadow type="minecraft_pixel_art_sprite_image" id="cY,@9nCfWUfr]Oa%3YfC"><field name="img">img`
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 f f 5 5 5 5 5 5 5 5 5 5 f f 5 
+5 f 1 5 5 5 5 5 5 5 5 5 5 1 f 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 f 5 5 5 5 5 5 5 5 5 5 5 5 f 5 
+5 5 f 5 5 5 5 5 5 5 5 5 5 f 5 5 
+5 5 5 f 5 5 5 5 5 5 5 5 f 5 5 5 
+5 5 5 5 f f f f f f f f 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="position"><shadow type="minecraftCreatePosition" id="7N0.DP`!CF81-G+=.2;_"><value name="x"><shadow type="math_number" id="{MlbHKrcs@l(g%NG6Xbn"><field name="NUM">0</field></shadow></value><value name="y"><shadow type="math_number" id="if+@z!o1AI(_oOBLNcc("><field name="NUM">100</field></shadow></value><value name="z"><shadow type="math_number" id="tw{:TsXeT9(sux-GF4T]"><field name="NUM">0</field></shadow></value></shadow></value></block></statement></block></xml>

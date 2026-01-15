@@ -1,0 +1,29 @@
+{
+    "name": "IaIaaYeyeyeye",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "makecode-minecraft-pixel-art": "github:microsoft/makecode-minecraft-pixel-art#v0.0.4",
+        "makecode-minecraft-castle-builder": "github:microsoft/makecode-minecraft-castle-builder#v0.0.4",
+        "events": "*",
+        "Roller Coaster Builder": "github:microsoft/makecode-minecraft-roller-coaster#v1.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.1.27",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
