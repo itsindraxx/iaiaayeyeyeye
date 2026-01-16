@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="xRRgvHNlG#rZ^u`HECiY" x="0" y="0"></block><block type="minecraftOnChat" id="DC/ynLqCar7Hv)(1L[|e" x="748" y="0"><mutation xmlns="http://www.w3.org/1999/xhtml" numargs="0"></mutation><value name="command"><shadow type="text" id="j,Fbk|3eQo9:BYHC^Q6!"><field name="TEXT">iaiaayeyeyeye</field></shadow></value><statement name="HANDLER"><block type="minecraftApplyEffect" id="ITi3i$)f[Y/,@apKDY8w"><value name="effect"><shadow type="minecraftEffectField" id="#@YvT|JUPw^NDsN,$!lx"><field name="effect">Effect.NightVision</field></shadow></value><value name="target"><shadow type="minecraftTarget" id="pS..^.S,Z]QhJi7t3?Ka"><field name="kind">TargetSelectorKind.NearestPlayer</field></shadow></value><value name="duration"><shadow type="math_number_minmax" id="Ig:{{/IvpnDE9(2D[GhU"><mutation min="0" max="600" precision="0"></mutation><field name="SLIDER">1e+221</field></shadow></value><value name="amplifier"><shadow type="math_number_minmax" id=")ldSW[86e:x87T#:M(Q$"><mutation min="0" max="255" precision="0"></mutation><field name="SLIDER">255</field></shadow></value><next><block type="castles_build_simple_castle" id="hNsT5FS4JRledv3Va2-["><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="blockType"><shadow type="minecraftBlock" id="j3)put8]|,e0e{:F1d%("><field name="block">Block.Cobblestone</field></shadow></value><next><block type="minecraft_pixel_art_draw_image" id="oK?yltt%xcm3M]Nf$hG4"><field name="direction">CompassDirection.West</field><value name="image"><shadow type="minecraft_pixel_art_sprite_image" id="z$oCY6V1$?dr3a+OLUf,"><field name="img">img`
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 f f 5 5 5 5 5 5 5 5 5 5 f f 5 
+5 f 1 5 5 5 5 5 5 5 5 5 5 1 f 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 f 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 f 5 5 5 5 5 5 5 5 5 5 5 5 f 5 
+5 5 f 5 5 5 5 5 5 5 5 5 5 f 5 5 
+5 5 5 f 5 5 5 5 5 5 5 5 f 5 5 5 
+5 5 5 5 f f f f f f f f 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="position"><shadow type="minecraftCreatePosition" id="Cw0^j|qEZKnmnN;FIn2C"><value name="x"><shadow type="math_number" id="].[`|Z,m9GzD?*WKP3$}"><field name="NUM">0</field></shadow></value><value name="y"><shadow type="math_number" id="KH*iBTj{9T+a!8ag8^;A"><field name="NUM">100</field></shadow></value><value name="z"><shadow type="math_number" id="o8^uhCL2,z[oK4ByW|T9"><field name="NUM">0</field></shadow></value></shadow></value><next><block type="minecraftExecute" id="UcV#M8C3xmOO@YSdjyO%"><value name="command"><shadow type="text" id="gi%0^|bO1g*.!GJmi:Lv"><field name="TEXT">say Vale bro</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
